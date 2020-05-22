@@ -1,0 +1,1 @@
+- Consulter la page de l'établissement https://www.univ-amu.fr/fr/public/recrutement-offres-demploi

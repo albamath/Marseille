@@ -1,0 +1,10 @@
+- **MCF 25, 26 et 70 poste 0880 :** La personne recrutée devra participer au développement des recherches en éducation relatives au processus d'enseignement apprentissage du laboratoire ADEF (EA 4671) et contribuer aux recherches menées dans le cadre de la Structure fédérative de recherche FED4238 SFERE-Provence.
+
+    Le ou la candidate devra notamment contribuer aux travaux d'équipes de recherche relatifs à la compréhension, à la modélisation et à l'efficacité des situations d'enseignement-apprentissage des STEM. Une connaissance des travaux de recherche sur les questions liées au numérique, à la robotique éducative et à l'Intelligence Artificielle est requise.
+- **MCF 25 et 26 poste 0881 :** La/le maître de conférences recruté.e sera attachée pour sa recherche à l'unité mixte de recherche Institut Mathématique de Marseille (UMR 7373 I2M) pour ses activités de recherche. La recherche en mathématique au sein de l'université Aix-Marseille recouvre un large spectre thématique et jouit d'une excellente réputation internationale. Ce recrutement vise à renforcer les mathématiques fondamentales ou appliquées au sein de l'I2M. Recruter un ou un.e chercheure permettra d'élargir et de renforcer l'expertise du laboratoire en apportant des approches nouvelles.
+
+    La personne recrutée intégrera l'une des équipes de recherche de l'Institut de Mathématiques de Marseille (I2M): *Analyse Appliquée (AA), Arithmétique, Géometrie, Logique, Représentations (AGLR), Analyse, Géométrie, Topologie (AGT), Géométrie, Dynamique, Arithmétique, Combinatoire (GDAC), Mathématiques de l'Aléatoire (ALEA)*. La qualité des travaux scientifiques sera fortement prise en compte.
+    
+    Il ou elle devra montrer sa capacité à inscrire ses recherches dans des réseaux de collaboration européens et internationaux. Le ou la candidat.e devra être capable de s'insérer dans des recherches collectives et pluridisciplinaires.
+    
+    Son rayonnement sera attesté par des publications dans les meilleures revues nationales et internationales de son champ et par la participation à des contrats de recherche d'envergure.

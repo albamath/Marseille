@@ -1,0 +1,5 @@
+- 25 26 70 MCF 0880 "Education et Formation des enseignants en apprentissages fondamentaux en mathématiques"
+- 25 26 MCF 0881 "Education et Formation des enseignants en apprentissages fondamentaux de mathématiques ; recherche en mathématiques."
+- 61 MCF 0890 "Traitement des images et des signaux biomédicaux"
+- 61 MCF 0892 "Automatique et informatique industrielle."
+- 27 MCF 0895 "Informatique, profil recherche prioritaire dans le domaine de la vérification, de la sécurité et des méthodes formelles."
