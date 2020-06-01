@@ -1,7 +1,9 @@
 ---
 lang: fr
-classoption: "aspectratio=169"
+classoption: "aspectratio=43"
+innertheme: rectangles
+outertheme: infolines
 header-includes: |
     \usepackage{tgpagella}
-    \useinnertheme{rectangles}
+    `\setbeamertemplate{footline}[frame number]`{=latex}
 ...
