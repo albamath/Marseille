@@ -1,8 +1,11 @@
 ---
 lang: fr
+toc: true
 innertheme: circles
 outertheme: infolines
+section-titles: false
 header-includes: |
     `\usepackage{tgpagella}`{=latex}
     `\setbeamertemplate{footline}[frame number]`{=latex}
+    `\setbeamertemplate{headline}{}`{=latex}
 ...
