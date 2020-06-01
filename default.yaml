@@ -1,8 +1,8 @@
 ---
 lang: fr
-innertheme: rectangles
+innertheme: circles
 outertheme: infolines
 header-includes: |
-    \usepackage{tgpagella}
+    `\usepackage{tgpagella}`{=latex}
     `\setbeamertemplate{footline}[frame number]`{=latex}
 ...
