@@ -1,6 +1,6 @@
 ---
 lang: fr
-classoption: "aspectratio=43"
+classoption: "aspectratio=169"
 innertheme: rectangles
 outertheme: infolines
 header-includes: |
